@@ -1,5 +1,5 @@
 # 2048
-This is a recreation of the famous app store game 2048 by Gabriele Cirulli. 
+This is a recreation of the famous app store game 2048 by Gabriele Cirulli done in a Java programming class at UC San Diego. 
 
 ![GitHub Logo](https://upload.wikimedia.org/wikipedia/commons/1/18/2048_logo.svg)
 
