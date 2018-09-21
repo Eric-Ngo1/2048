@@ -17,6 +17,7 @@ single direction was a three step process in which all numbered tiles were pushe
 of the same value were combined into a single tile of double the value, and the final step was to further push the numbered tiles until 
 they couldn't move anymore. Through this process, the illusion of tiles combining and being swiped all the way in a single direction 
 was achieved.
+<img src="pictures/2048_1.png"/>
 
 ### Interface:
 To implement the user interface, we used JavaFX and imported many premade classes to achieve a similar look to the original game. We used
