@@ -24,3 +24,4 @@ To implement the user interface, we used JavaFX and imported many premade classe
 classes to control the score, the title of the game, and the tile pieces on the board. After every move, the board is refreshed and all 
 values are updated, along with the color of the tiles if they changed values. An additional feature I added to the program was the 
 ability to resize the game board if the user wanted to; so all objects were set in relation to the width and height of the window.
+<img src="pictures/2048_2.png"/>
